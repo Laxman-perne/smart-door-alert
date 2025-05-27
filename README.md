@@ -96,4 +96,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ---
 
 ## Contact
-For questions or feedback, contact: [pernelaxman@gmaail.com]
+For questions or feedback, contact: [pernelaxman@gmail.com]
